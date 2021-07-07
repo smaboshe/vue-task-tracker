@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <Header />
+    <Header title="Task Tracker" />
   </div>
 </template>
 
@@ -10,7 +10,7 @@ import Header from './components/Header'
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
   }
 }
 </script>
