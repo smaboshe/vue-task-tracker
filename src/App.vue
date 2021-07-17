@@ -8,6 +8,8 @@
 
     <Tasks :tasks="tasks" @delete-task="deleteTask" @toggle-reminder="toggleReminder"  />
 
+    <router-view></router-view>
+
     <Footer />
   </div>
 </template>
