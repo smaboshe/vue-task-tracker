@@ -4,37 +4,19 @@
       "id": "1",
       "text": "Learn",
       "day": "11 August 2021 at 15:00hrs",
-      "reminder": true
-    },
-    {
-      "id": "2",
-      "text": "Live",
-      "day": "9 September 2021 at 09:00hrs",
-      "reminder": true
-    },
-    {
-      "id": "2",
-      "text": "Live",
-      "day": "9 September 2021 at 09:00hrs",
-      "reminder": true
-    },
-    {
-      "id": "4",
-      "text": "Leave a legacy",
-      "day": "3 September 2021 at 11:00hrs",
       "reminder": false
     },
     {
-      "id": 50725,
-      "text": "Dentist",
-      "day": "19 August 2021",
-      "reminder": true
+      "id": "2",
+      "text": "Live",
+      "day": "9 September 2021 at 09:00hrs",
+      "reminder": false
     },
     {
-      "text": "Cook",
-      "day": "Tomorrow",
-      "reminder": true,
-      "id": 50726
+      "id": "3",
+      "text": "Love",
+      "day": "9 September 2021 at 09:00hrs",
+      "reminder": false
     }
   ]
 }
