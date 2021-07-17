@@ -17,3 +17,9 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+---
+
+Ref:
+- https://youtu.be/qZXt1Aom3Cs
+- https://github.com/bradtraversy/vue-crash-2021
