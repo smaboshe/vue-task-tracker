@@ -23,6 +23,18 @@
       "text": "Leave a legacy",
       "day": "3 September 2021 at 11:00hrs",
       "reminder": false
+    },
+    {
+      "id": 50725,
+      "text": "Dentist",
+      "day": "19 August 2021",
+      "reminder": true
+    },
+    {
+      "text": "Cook",
+      "day": "Tomorrow",
+      "reminder": true,
+      "id": 50726
     }
   ]
 }
