@@ -2,7 +2,7 @@
   <div class="container">
     <Header title="Task Tracker" />
     
-    <div v-if="showAddTask">
+    <div v-show="showAddTask">
       <AddTask @add-task="addTask" />
     </div>
 
